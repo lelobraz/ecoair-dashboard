@@ -1,4 +1,5 @@
 # 🌱 EcoAir: Monitoramento da Qualidade do Ar e Impacto na Saúde Pública
+[Assista ao vídeo no YouTube](https://www.youtube.com/watch?v=XVscLGdxCck)
 
 ## 📌 Tema e Justificativa
 O **EcoAir** é um dashboard interativo desenvolvido para monitorar e analisar os índices de poluição atmosférica — especificamente Material Particulado Fino (**PM2.5**) e Dióxido de Nitrogênio (**NO2**) — em municípios da **Aglomeração Urbana de Jundiaí** (Jundiaí, Várzea Paulista e Campo Limpo Paulista) e da **Região Metropolitana de São Paulo** (Caieiras, Franco da Rocha e Francisco Morato).
@@ -73,5 +74,5 @@ O dashboard foi projetado para responder às seguintes questões:
 
 ## 👥 Integrantes do Grupo
 Nome Célio Cipriano Braz
-
+Nome Gustavo Lucas Godoy Rybeiro
 
